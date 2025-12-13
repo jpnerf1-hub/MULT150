@@ -1,0 +1,7 @@
+/*I think the game is too easy as you barely have to move to grab the powerups
+I would space out the powerups more
+Different powerups would make the game more appealing
+Collecting the powerups and dodging the obstacles is fun
+Trying to collect the powerups
+ Changes
+Changed shape and color of powerup prefab*/
